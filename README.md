@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Olá seja bem-vindo ao meu perfil! 
 <!--
 **rafaela-albuquerquel/rafaela-albuquerquel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
